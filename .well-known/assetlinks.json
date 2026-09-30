@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.alialsaffarmosuluniversity.quransign",
+      "sha256_cert_fingerprints": [
+        "EA:1E:CE:BB:C5:38:86:AC:88:44:47:5F:8A:AF:22:0E:0A:C3:75:DC:48:64:44:FB:07:17:1A:F2:42:05:AA:A2"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.alialsaffarmosuluniversity.shiryan",
+      "sha256_cert_fingerprints": [
+        "57:3B:E9:8B:97:98:3C:7E:51:B1:AA:B2:CA:EB:02:2E:3E:6F:10:78:83:38:F2:81:CA:EE:86:4E:9D:43:05:A6"
+      ]
+    }
+  }
+]
